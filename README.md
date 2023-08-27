@@ -1,5 +1,5 @@
 # bat-rat
-
+## [discord server](https://discord.gg/AnNdce9z)
 ## setup
 
 1. create a account at replit
